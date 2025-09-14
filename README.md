@@ -1,7 +1,7 @@
 # 🩺 Comprehensive-Diabetes-Clinical-Dataset
 
 ## 📖 Project Description
-This project analyzes a clinical dataset of diabetes patients obtained from [Kaggle](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease?utm_source=chatgpt.com).  
+This project analyzes a clinical dataset of diabetes patients obtained from [Kaggle](https://www.kaggle.com/datasets/priyamchoksi/100000-diabetes-clinical-dataset?utm_source=chatgpt.com).  
 The main goal is to clean and process the data, perform exploratory analysis, and create meaningful visualizations that help understand risk factors and correlations between different variables.  
 We chose this project because it is impactful in the medical field and provides hands-on practice in data analysis using multiple tools.
 
